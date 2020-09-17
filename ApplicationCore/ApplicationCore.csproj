@@ -49,9 +49,11 @@
     <Compile Include="Interfaces\Repository\IContatosRepository.cs" />
     <Compile Include="Interfaces\Repository\IProfissoesRepository.cs" />
     <Compile Include="Interfaces\Repository\IRepository.cs" />
+    <Compile Include="Interfaces\Services\IContatosService.cs" />
     <Compile Include="Interfaces\Services\IClientesService.cs" />
     <Compile Include="Interfaces\Services\IServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ContatosService.cs" />
     <Compile Include="Services\ClientesService.cs" />
   </ItemGroup>
   <ItemGroup />
