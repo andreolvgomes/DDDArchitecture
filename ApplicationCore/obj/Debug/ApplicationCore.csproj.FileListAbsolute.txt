@@ -1,0 +1,6 @@
+C:\Users\André\source\repos\DDDArchitecture\ApplicationCore\bin\Debug\ApplicationCore.dll
+C:\Users\André\source\repos\DDDArchitecture\ApplicationCore\bin\Debug\ApplicationCore.pdb
+C:\Users\André\source\repos\DDDArchitecture\ApplicationCore\obj\Debug\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\André\source\repos\DDDArchitecture\ApplicationCore\obj\Debug\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\DDDArchitecture\ApplicationCore\obj\Debug\ApplicationCore.dll
+C:\Users\André\source\repos\DDDArchitecture\ApplicationCore\obj\Debug\ApplicationCore.pdb

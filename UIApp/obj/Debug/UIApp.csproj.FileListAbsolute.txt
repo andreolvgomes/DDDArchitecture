@@ -1,0 +1,5 @@
+C:\Users\André\source\repos\DDDArchitecture\UIApp\obj\Debug\UIApp.csprojAssemblyReference.cache
+C:\Users\André\source\repos\DDDArchitecture\UIApp\obj\Debug\MainWindow.g.cs
+C:\Users\André\source\repos\DDDArchitecture\UIApp\obj\Debug\App.g.cs
+C:\Users\André\source\repos\DDDArchitecture\UIApp\obj\Debug\UIApp_MarkupCompile.cache
+C:\Users\André\source\repos\DDDArchitecture\UIApp\obj\Debug\UIApp_MarkupCompile.lref
